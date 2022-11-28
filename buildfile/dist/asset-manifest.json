@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d96bc95.css",
+    "main.js": "/static/js/main.cd1556fa.js",
+    "static/js/787.aaca66d2.chunk.js": "/static/js/787.aaca66d2.chunk.js",
+    "static/media/logo_A306_2.png": "/static/media/logo_A306_2.d77290349e30a9d4be70.png",
+    "static/media/game-console (1).png": "/static/media/game-console (1).ee6030db40d50040da3e.png",
+    "static/media/book.png": "/static/media/book.1891bf3a2bf1ae224ba9.png",
+    "index.html": "/index.html",
+    "main.7d96bc95.css.map": "/static/css/main.7d96bc95.css.map",
+    "main.cd1556fa.js.map": "/static/js/main.cd1556fa.js.map",
+    "787.aaca66d2.chunk.js.map": "/static/js/787.aaca66d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d96bc95.css",
+    "static/js/main.cd1556fa.js"
+  ]
+}

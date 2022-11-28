@@ -1,0 +1,41 @@
+/* .scroll-to-top-btn {
+  bottom: 5%;
+  border: 0px;
+  cursor: pointer;
+  display: block;
+  padding: 0px;
+  position: fixed;
+  right: 5%;
+} */
+.hidden {
+  display: none;
+}
+.ddddbox{
+  position:relative;
+  top: 180px;
+  /* left:100px; */
+  /* border: dashed red; */
+  color: black;
+  
+}
+
+.chc{
+  position: relative;
+  animation-name: example;
+  animation-duration: 0.8s;
+  animation-iteration-count: infinite;
+  /* 이거무제한키워드 */
+  /* top:200px;
+  left:0%; */
+  /* z-index:2147483647; */
+  
+}
+
+@keyframes example {
+  0%   {transform: rotate(5deg)}
+  50%  {transform: rotate(0deg)}
+  100% {transform: rotate(-5deg)}
+}
+h5{
+  line-height:170%;
+}

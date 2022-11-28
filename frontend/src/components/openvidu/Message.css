@@ -1,0 +1,61 @@
+#you {
+    background-color: #ddd;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 3px;
+    align-items: flex-end;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#yourname {
+    /* align-items: flex-end; */
+    /* margin-right: 100px;
+    margin-left: 10px; */
+    /* float: left; */
+    margin-top: 5px;
+}
+
+#yourcontainer {
+    text-align: left;
+    flex-direction: column;
+}
+
+#youricon {
+    margin-left: 10px;
+    margin-top: 7px;
+}
+
+
+#me {
+    background-color: #F9EB54;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-bottom: 3px;
+    align-items: flex-start;
+    flex-direction: row-reverse;
+    border-radius: 10px;
+    display: inline-block;
+    width: '100%';
+    text-align: left;
+}
+
+
+#myname {
+    /* align-items: flex-start; */
+    /* margin-left: 100px; */
+    /* margin-right: 10px; */
+    /* float: right; */
+    margin-top: 5px;
+}
+
+#mycontainer {
+    text-align: right;
+    /* display: flex; */
+    flex-direction: column;
+}
+
+#myicon {
+    margin-right: 10px;
+    margin-top: 7px;
+}
